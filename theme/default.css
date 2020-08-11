@@ -1,0 +1,28 @@
+
+	/*defalt*/
+	.headerSection {background: #B27E19 !important; }
+	.searchbtn input[type="text"] {background: #FFE07C !important;}
+	input[type="text"], input[type="email"] {border: 1px solid #CFCFCF !important;}
+	.searchbtn input[type="submit"] {background: #D6D16D !important;}
+	.nevigationSection {background: #CF9B36 !important;}
+	.nevigationSection ul li {
+	border-right: 1px solid #A6720D !important;
+	border-left: 1px solid #F4CA65 !important;
+	}
+	#active {background: #FFF ;}
+	.samePost h2 a {color: #CF9B36;}
+	.mainContent {background: #F4EDDD;border: 1px solid #FFE1B2;}
+	.contentSection {border: 1px solid #CF9B36;}
+	.sameSidebar h2 {background: #CF9B36;border-bottom: 2px solid #3F3F34;	}
+	.slidebar {background: #F4EDDD !important;border: 1px solid #FFE1B2 !important;}
+	.footerSection {background: #B27E19 !important;}
+	.pegination a {
+    background: #CF9B36 !important;
+    border: 1px solid #9F6B17 !important;
+    color: #333 !important;
+	}
+	.pegination a:hover{background: #B27E19; color:#fff;}
+	.samePost h2, .about h2, .post h2 {color: #CF9B36 !important;}
+	.relatedPost h2 {
+	color: #000 !important;
+	background: #CF9B36 !important;}

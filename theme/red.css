@@ -1,0 +1,28 @@
+
+	.headerSection {background: #D30F0F !important;}
+  	.searchbtn input[type="text"] {background: #FF4747 !important;}
+	input[type="text"], input[type="email"] {    border: 1px solid #D71F1F !important;}
+	.searchbtn input[type="submit"] {background: #D30F0F !important;}
+	.nevigationSection {background: #E22C2C  !important;}
+	.nevigationSection ul li {
+	border-right: 1px solid #E22C2C  !important;
+	border-left: 1px solid #E22C2C  !important;
+}
+	#active {background: #FFF !important;}
+	.samePost h2 a {color: #D30F0F !important;}
+	.mainContent {background: #F0C5C5 !important;border: 1px solid #D30F0F !important;}
+	.contentSection {border: 1px solid #D30F0F !important;}
+	.sameSidebar h2 {background: #FE3D3D !important;border-bottom: 2px solid #D30F0F}
+	.slidebar {background: #F0C5C5 !important;border: 1px solid #D30F0F !important;}
+	.footerSection {background: #D30F0F !important;}
+	.pegination a {
+	background: #FE3D3D !important;
+	border: 1px solid #FE3D3D !important;
+	color: #fff !important;
+}
+.pegination a:hover{background: #fff !important; color:#000 !important;}
+	.samePost h2, .about h2, .post h2 {color: #D30F0F !important;}
+	.relatedPost h2 {
+	color: #fff !important;
+	background: #51A451 !important;
+	}
